@@ -1,6 +1,10 @@
 # Awesome Hootsuite Alternatives
 
-> A curated list of the **best Hootsuite alternatives** and **social media scheduling tools** for agencies, startups, creators, and marketing teams.
+A curated list of the **best Hootsuite alternatives** and **social media scheduling tools**, maintained by [Postzio](https://postzio.com).
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Website](https://img.shields.io/badge/website-postzio.com-0066cc?style=flat-square&logo=google-chrome&logoColor=white)](https://postzio.com)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ch_sheraz61355?style=social)](https://twitter.com/ch_sheraz61355)
 
 Are you looking for a more affordable, modern, or feature-rich platform to manage your social media? This list compiles the top **social media management tools** that serve as excellent replacements for Hootsuite. Whether you need an **all-in-one social suite**, a **focused scheduler**, or an **AI-powered automation tool**, you'll find the perfect match here.
 
@@ -133,6 +137,23 @@ We welcome contributions from the community!
 - **Fix Errors:** Typos and formatting fixes are always appreciated.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for full details on how to get started.
+
+---
+
+<div align="center">
+
+## 🚀 Ready to Grow? Try Postzio.
+
+**The modern Hootsuite alternative built for speed.**
+
+![Postzio](https://postzio.com/logo.png)
+
+Postzio is the cleanest, fastest way to schedule social media updates. No clutter, just results.
+Perfect for founders, indie hackers, and small teams.
+
+[![Get Started](https://img.shields.io/badge/Get_Started_Free-Postzio-blue?style=for-the-badge&logo=rocket)](https://postzio.com)
+
+</div>
 
 ---
 
